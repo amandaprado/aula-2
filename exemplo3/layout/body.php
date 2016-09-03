@@ -5,7 +5,8 @@
   echo $variavel3;
   $variavel3 = $variavel2[0];
   echo '<br/>';
-  echo $variavel3;
+   $variavel3 = array('maçã' , 'banana');
+  echo implode ('--' , $variavel3);
       echo '<br/>';
       $variavel = 0;
       echo $variavel;
