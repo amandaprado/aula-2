@@ -12,9 +12,6 @@
       echo $variavel;
       echo '<br/>';
       echo $variavel;
-      echo "<br>";
-      require 'printer.php';
-      
    ?>
 
 </body>
